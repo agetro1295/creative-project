@@ -216,7 +216,7 @@ input[type=submit] {
    text-align: center;
    padding: 10px 0px 0px 0px;
 }
-/*Responsive design*/
+/*Responsive design Reference*/
 @media screen and (max-width: 600px) {
   .col-25, .col-75, input[type=submit] {
     width: 100%;
